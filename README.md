@@ -10,7 +10,7 @@ argmax-oss-swift is a powerhouse. SwiftListener wraps that power in a workflow d
 🤖 LLM-Ready Formatting: Automatically converts raw diarized output into clean, structured Markdown or JSON. This eliminates the "cleaning phase".
 📋 Structured Context: Ensures speaker labels and timestamps are formatted in a way that maximizes an LLM's ability to follow a conversation.
 
-##🛠️ How it Works
+## How it Works
 SwiftListener acts as a high-level wrapper around the argmax-oss-swift engine. It manages the execution flow and post-processes the raw data into a "Prompt-Ready" state.
 
 ## Transcribe and get an LLM-ready Markdown file
