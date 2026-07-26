@@ -4,7 +4,7 @@ The LLM-optimized frontend for argmax-oss-swift.
 SwiftListener provides a streamlined, user-friendly interface for the incredible work done in argmax-oss-swift. While the underlying engine handles the heavy lifting of transcription and diarization, SwiftListener focuses on the output: making your transcripts immediately useful for Large Language Models (LLMs).
 
 ## What SwiftListener Adds
-argmax-oss-swift is a powerhouse. SwiftListener wraps that power in a workflow designed specifically for AI developers and prompt engineers:
+argmax-oss-swift (https://github.com/argmaxinc/argmax-oss-swift) is a powerhouse. SwiftListener wraps that power in a workflow designed specifically for AI developers and prompt engineers:
 
 🚀 Simplified UX: No complex configurations. Just point to an audio file and get results.
 🤖 LLM-Ready Formatting: Automatically converts raw diarized output into clean, structured Markdown or JSON. This eliminates the "cleaning phase".
