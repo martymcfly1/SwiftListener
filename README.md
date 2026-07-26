@@ -17,4 +17,5 @@ SwiftListener acts as a high-level wrapper around the argmax-oss-swift engine. I
 This project is a frontend wrapper built to extend the utility of argmax-oss-swift. Huge thanks to the Argmax team for their incredible work on high-performance, open-source transcription.
 
 ## Download
-For Apple Silicon Only.
+For Apple Silicon Only.[SwiftListener.app.zip](https://github.com/user-attachments/files/30392091/SwiftListener.app.zip)
+
