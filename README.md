@@ -13,11 +13,8 @@ argmax-oss-swift is a powerhouse. SwiftListener wraps that power in a workflow d
 ## How it Works
 SwiftListener acts as a high-level wrapper around the argmax-oss-swift engine. It manages the execution flow and post-processes the raw data into a "Prompt-Ready" state.
 
-## Transcribe and get an LLM-ready Markdown file
-swiftlistener transcribe meeting.mp3 --format markdown
-
 ## Acknowledgments
 This project is a frontend wrapper built to extend the utility of argmax-oss-swift. Huge thanks to the Argmax team for their incredible work on high-performance, open-source transcription.
 
-Powered by Excellence.
-SwiftListener is proud to be built on top of argmax-oss-swift, an exceptional open-source project pushing the boundaries of what's possible in local transcription. We simply provide the final mile for your AI pipeline.
+## Download
+For Apple Silicon Only.
